@@ -28,7 +28,6 @@ sourceCompatibility = 1.8
 // 저장소
 repositories {
     mavenCentral()
-    jcenter()
 }
 
 dependencies {
